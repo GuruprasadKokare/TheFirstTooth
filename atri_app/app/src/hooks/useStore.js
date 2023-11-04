@@ -67,7 +67,7 @@ const desktopModeProps = {
     "Image1": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/THE-FIRST-TOOTH.jpg"
+        "src": "D:/installed softwares/Git/TheFirstTooth/app-assets/THE-FIRST-TOOTH.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -152,7 +152,7 @@ const desktopModeProps = {
     "Image3": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/lobby.jpg"
+        "src": "D:/installed softwares/Git/TheFirstTooth/app-assets/lobby.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -165,7 +165,7 @@ const desktopModeProps = {
     "Image5": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/smiling-woman-bowles-dental-5.jpg"
+        "src": "D:/installed softwares/Git/TheFirstTooth/app-assets/smiling-woman-bowles-dental-5.jpg"
       },
       "callbacks": {
         "onClick": [

@@ -9,7 +9,7 @@ const rootEl = document.getElementById("root");
 hydrateRoot(
   rootEl,
   <GlobalContext.Provider value={{ window }}>
-    <BrowserRouter basename={"" || undefined}>
+    <BrowserRouter basename={"D:/installed softwares/Git/TheFirstTooth" || undefined}>
       <App />
     </BrowserRouter>
   </GlobalContext.Provider>
